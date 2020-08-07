@@ -3,4 +3,6 @@
 
 # Hi, I’m Luke
 
-# Awh, it’s not the weekend yet.
+### Is it the weekend??
+
+It’s almost the weekend. . .
