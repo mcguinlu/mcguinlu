@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '0 1 * * *'
+    - cron:  '01 0 * * *'
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
     - name: Update README
       run: |-
         Rscript -e "install.packages('rmarkdown')"
-        Rscript -e "rmarkdown::render(README.Rmd)"
+        Rscript -e "rmarkdown::render("README.Rmd")"
     - name: Commit and push if changed
       run: |-
         git add .

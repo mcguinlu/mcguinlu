@@ -21,7 +21,11 @@ day <- format(Sys.Date(),"%A")
 if (day %in% c("Saturday","Sunday")) {
   text <- "Woohoo, it's the weekend!"
 } else{
-  text <- "Awh, it's not the weekend yet."
+  if (day == "Friday") {
+    text <- "It's almost the weekend. . . "
+  } else {
+    text <- "Awh, it's not the weekend yet."
+  }
 }
 ```
 
