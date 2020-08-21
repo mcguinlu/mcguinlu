@@ -5,4 +5,4 @@
 
 ### Is it the weekend??
 
-Awh, it’s not the weekend yet.
+It’s almost the weekend. . .
