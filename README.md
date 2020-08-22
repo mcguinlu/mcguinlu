@@ -5,4 +5,4 @@
 
 ### Is it the weekend??
 
-It’s almost the weekend. . .
+Woohoo, it’s the weekend\!
