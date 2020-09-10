@@ -13,23 +13,21 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Hi, I'm Luke
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ```{r, echo = FALSE}
 day <- format(Sys.Date(),"%A")
 
 if (day %in% c("Saturday","Sunday")) {
-  text <- "Woohoo, it's the weekend!"
+  text <- ""
 } else{
   if (day == "Friday") {
-    text <- "It's almost the weekend. . . "
+    text <- "We interrupt this broadcast for an important announcement -  it's FRIDAY!"
   } else {
-    text <- "Awh, it's not the weekend yet."
+    text <- ""
   }
 }
 ```
 
-### Is it the weekend??  
 `r text`
-
-
+ 
