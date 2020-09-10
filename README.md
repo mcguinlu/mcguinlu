@@ -1,8 +1,4 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Hi, I’m Luke
-
-### Is it the weekend??
-
-Awh, it’s not the weekend yet.
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
