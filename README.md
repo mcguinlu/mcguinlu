@@ -23,7 +23,7 @@ really terrible movies.
 
 ### Is it the weekend??
 
-Awh, it’s not the weekend.
+It’s not the weekend. . . yet.
 
 <details>
 

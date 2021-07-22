@@ -19,12 +19,12 @@ knitr::opts_chunk$set(
 day <- format(Sys.Date(),"%A")
 
 if (day %in% c("Saturday","Sunday")) {
-  text <- "Woohoo, it's the weekend!"
+  text <- "We interrupt this broadcast for an important announcement - it's the weekend!"
 } else{
   if (day == "Friday") {
-    text <- "It's almost the weekend. . . "
+    text <- "We interrupt this broadcast for an important announcement -  it's FRIDAY!"
   } else {
-    text <- "Awh, it's not the weekend."
+    text <- "It's not the weekend. . . yet."
   }
 }
 ```
@@ -46,5 +46,3 @@ Outside of work, I am an avid fan of running, [LEGO](https://mcguinlu.netlify.ap
 This is a simple test of using GitHub Actions to automatically render a RMarkdown file each morning, and update the text above. See the underlying RMarkdown file [here](https://github.com/mcguinlu/mcguinlu/blob/master/README.Rmd).
 
 </details>
-
-
