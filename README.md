@@ -25,7 +25,8 @@ really terrible movies.
 
 ### Is it the weekend??
 
-It’s not the weekend. . . yet.
+We interrupt this broadcast for an important announcement - it’s the
+weekend\!
 
 <details>
 
