@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Hi, I'm Luke <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Luke <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="9px">
 
 ```{r, echo = FALSE}
 day <- format(Sys.Date(),"%A")
