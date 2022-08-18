@@ -14,11 +14,6 @@ smaller utility/learning packages
 about some things that interest me at
 [Hexations](https://mcguinlu.netlify.app/).
 
-I am an NIHR Doctoral Research Fellow at the University of Bristol
-Medical School, where I use large electronic health record databases
-(e.g. CPRD) and evidence synthesis methods to examine the relationship
-between blood lipid levels and dementia risk.
-
 Outside of work, I am an avid fan of running,
 [LEGO](https://mcguinlu.netlify.app/2021/02/02/baby-yoda-in-r/) and
 really terrible movies.
