@@ -20,8 +20,8 @@ really terrible movies.
 
 ### Is it the weekend??
 
-We interrupt this broadcast for an important announcement - it’s
-FRIDAY\!
+We interrupt this broadcast for an important announcement - it’s the
+weekend\!
 
 <details>
 
